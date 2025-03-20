@@ -1,5 +1,0 @@
-database:
-  username: devuser
-  password: devpassword
-server:
-  port: 8080
